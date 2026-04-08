@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Moisés Isea 👋
 
-<!--
-**Meic19/Meic19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Operations & Automation Manager | Google Certified Cybersecurity Professional
 
-Here are some ideas to get you started:
+Especialista en la optimización de flujos de trabajo mediante **automatización avanzada y agentes de IA**. Con una trayectoria sólida en la administración de activos financieros y seguridad digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **IA & Trading Autónomo:** Supervisión y optimización continua de agentes de IA para trading automatizado en Bybit (operación 24/7).
+- 🛡️ **Certificación:** Google Cybersecurity Professional.
+- 📊 **Gestión de Activos:** Supervisión de cartera de inversión de **$230K USD** con enfoque en gestión de riesgos y ciberseguridad.
+- 🛠️ **Tech Stack:** Python, Google Apps Script, Pine Script, Linux, SIEM.
+
+---
+## 🚀 Proyectos Destacados
+- **Agentes de IA para Bybit:** Sistema autónomo de trading con optimización de parámetros en tiempo real.
+- **Falcon Sniper:** Estrategia algorítmica avanzada para TradingView.
+- **Automatización Empresarial:** Sistemas de inventario digital desarrollados con Apps Script para optimización de procesos.
