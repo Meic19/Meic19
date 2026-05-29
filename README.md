@@ -4,7 +4,7 @@
 
 **Trader algorítmico · Automatización con IA · Python · Bybit Perpetuos**
 
-[![Twitter](https://img.shields.io/badge/Twitter-@MEICtheONE-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MEICtheONE)
+[![Twitter](https://img.shields.io/badge/Twitter-@meic_live-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MEICtheONE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
 [![Bybit](https://img.shields.io/badge/Exchange-Bybit-orange)](https://bybit.com)
 [![Google](https://img.shields.io/badge/Certified-Google_Cybersecurity-4285F4?logo=google)](https://grow.google/certificates/cybersecurity)
