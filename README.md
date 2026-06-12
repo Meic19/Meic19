@@ -1,6 +1,6 @@
 <div align="center">
 
-# Moisés Isea 👋
+# Moisés  👋
 
 **Full-Stack & Fintech Builder · Crypto Ops · Automatización con IA**
 
